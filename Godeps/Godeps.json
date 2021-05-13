@@ -1040,11 +1040,11 @@
 		},
 		{
 			"ImportPath": "k8s.io/api",
-			"Rev": "cf035fcf5eb5"
+			"Rev": "c7c4c2f23c27"
 		},
 		{
 			"ImportPath": "k8s.io/apimachinery",
-			"Rev": "f030ed81ce4e"
+			"Rev": "df0a16a0195a"
 		},
 		{
 			"ImportPath": "k8s.io/cli-runtime",
@@ -1060,7 +1060,7 @@
 		},
 		{
 			"ImportPath": "k8s.io/component-base",
-			"Rev": "7b1a667b9eac"
+			"Rev": "edd8ef348390"
 		},
 		{
 			"ImportPath": "k8s.io/component-helpers",
